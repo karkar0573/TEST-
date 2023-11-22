@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ProjectZ</id>
+    <version>1.0.0</version>
+    <authors>ProjectZ</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\uslog\Desktop\Zakaz\ProjectZ\bin\Debug\net6.0-windows\ProjectZ.runtimeconfig.json" target="lib\net6.0-windows7.0\ProjectZ.runtimeconfig.json" />
+    <file src="C:\Users\uslog\Desktop\Zakaz\ProjectZ\bin\Debug\net6.0-windows\ProjectZ.dll" target="lib\net6.0-windows7.0\ProjectZ.dll" />
+  </files>
+</package>
